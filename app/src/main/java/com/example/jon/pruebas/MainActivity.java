@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         reloj = (AnalogClock) findViewById(R.id.reloj);
 
-
+asdasdasdasdas
         reloj.
     }
 }
